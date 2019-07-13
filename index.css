@@ -1,4 +1,11 @@
 
+nav {
+    margin: auto;
+    background-color: lightblue;
+    height: 50px;
+
+}
+
 h1 {
     text-decoration: underline;
 }
